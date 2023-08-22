@@ -38,7 +38,8 @@ export async function koeiromapFreeV1(
 ) {
   // Request body
   const body = {
-    text: message,
+    // NOTE: 無料版で60文字を超えると全て無音になってしまったので、60文字に一旦制限
+    text: message.slice(0, 60),
     speaker_x: speakerX,
     speaker_y: speakerY,
     style: style,
