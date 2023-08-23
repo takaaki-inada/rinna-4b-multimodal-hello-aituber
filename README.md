@@ -1,7 +1,7 @@
 # rinna-4b-multimodal-hello-aituber
 
 最初に、こちらの解説記事をお読みください。
-
+[ローカルで動くマルチモーダルモデル(rinna-4b multimodal)を使って簡単なゲーム実況AIを作ってみた - Qiita](https://qiita.com/takaaki_inada/items/62e6f21cb2dbdae43ed4)
 
 rinna-4b マルチモーダルモデルを使用した簡単なゲーム実況デモ動画（5分）
 こちらを見てもらうと、何がチュートリアルで作れるのかイメージしやすいと思います。
